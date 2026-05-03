@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Teb3ed Leih 3anni – Why do you distance yourself from me? |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/teb3ed-leih-3anni-why-do-you-distance-yourself-from-me/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
