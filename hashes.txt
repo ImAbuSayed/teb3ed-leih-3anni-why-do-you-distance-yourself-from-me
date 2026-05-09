@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Teb3ed Leih 3anni – Why do you distance yourself from me?
+
+This log tracks the cryptographic history and versioning for the song **Teb3ed Leih 3anni – Why do you distance yourself from me?** (teb3ed-leih-3anni-why-do-you-distance-yourself-from-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:22:41.597405 | `v1` | `dac7ab0d6989e5ab938e2ebbb181cd8ed8937a27455d56e47b5704040d35af86` | `743297456aa4eb3e2b56417ef5153939929815a4ee6288a42917b74f849e4009` | `2026-05-09_teb3ed-leih-3anni-why-do-you-distance-yourself-from-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
